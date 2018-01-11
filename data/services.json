@@ -1,0 +1,15 @@
+{
+  "content": [
+    {
+      "title": "Our Services",
+      "description": "As we travel, we hope to <span class='peach'>offer our services</span> to hotels, hostels, tour companies, and other <span class='peach'>travel-related businesses</span> that we meet.  We can help market your business in these ways:"
+    }
+  ],
+  "items": [
+    {
+      "name": "Collaboration with<br> RoamingLove.com",
+      "image": "\/img\/icon-collaborate.svg",
+      "description": "We can write an article which will be featured on the homepage of Roaming Love, along with an instagram shoutout and a mention in our email newsletter."
+    },
+  ]
+}
