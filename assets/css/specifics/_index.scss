@@ -85,7 +85,8 @@
 
         &__practiceareas,
         &__representation,
-        &__consultation {
+        &__consultation,
+        &__areas {
             strong {
                 font-weight: 400;
                 display: block;
@@ -101,13 +102,17 @@
         }
 
         &__practiceareas {
-            @media (max-width: $screen-xs-max) {
-                margin-bottom: 45px;
-            }
+            margin-bottom: 45px;
         }
 
         &__representation {
             margin-bottom: 45px;
+        }
+
+        &__consultation {
+            @media (max-width: $screen-xs-max) {
+                margin-bottom: 45px;
+            }
         }
     }
 
